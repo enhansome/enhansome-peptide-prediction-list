@@ -636,7 +636,7 @@
             "last_commit": "2022-10-06T11:24:09Z",
             "owner": "mayuefine",
             "repo": "c_AMPs-prediction",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -1250,7 +1250,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:59:17.420Z",
+    "last_updated": "2026-08-24T14:46:44.002Z",
     "original_repository": "BioGenies/peptide-prediction-list",
     "original_repository_id": 332714570,
     "original_repository_sha": "3b2b9817ac995ef537f4a437cd04f66ded90cbd3",

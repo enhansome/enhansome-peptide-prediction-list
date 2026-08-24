@@ -367,7 +367,7 @@ interactive and browse-able list, please visit:
    server](https://big-data-biology.org/software/macrel).
 2. Ma et al. (2022):
    [publication](https://doi.org/10.1038/s41587-022-01226-0); [model
-   repository](https://github.com/mayuefine/c_AMPs-prediction) ⭐ 88 | 🐛 12 | 🌐 Python | 📅 2022-10-06.
+   repository](https://github.com/mayuefine/c_AMPs-prediction) ⭐ 89 | 🐛 12 | 🌐 Python | 📅 2022-10-06.
 3. AMPlify (2022):
    [publication](https://doi.org/10.1186/s12864-022-08310-4); [training
    repository](https://github.com/bcgsc/AMPlify) ⭐ 65 | 🐛 3 | 🌐 Python | 📅 2026-06-02; [model
@@ -744,4 +744,4 @@ and Structural Biotechnology Journal,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
