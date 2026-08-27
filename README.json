@@ -1250,9 +1250,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:21:13.601Z",
-    "original_repository": "BioGenies/peptide-prediction-list",
-    "original_repository_id": 332714570,
+    "last_updated": "2026-08-27T11:55:19.159Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 332714570,
+      "language": "Shell",
+      "last_commit": "2024-12-17T10:39:01Z",
+      "owner": "BioGenies",
+      "repo": "peptide-prediction-list",
+      "stars": 69
+    },
     "original_repository_sha": "3b2b9817ac995ef537f4a437cd04f66ded90cbd3",
     "enhanced_repository": "enhansome/enhansome-peptide-prediction-list",
     "enhanced_repository_description": null,
