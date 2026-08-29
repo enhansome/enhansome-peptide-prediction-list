@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 369932379,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-02T05:38:03Z",
+            "open_issues": 0,
             "owner": "alivelxj",
             "repo": "Pep-CNN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes of A novel therapeutic peptide prediction method using physicochemical property encoding and feature representation learning",
+            "homepage": null,
             "id": 222323415,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-07-01T10:08:22Z",
+            "open_issues": 0,
             "owner": "YPZ858",
             "repo": "PPTPP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 174274850,
             "language": "R",
+            "license": null,
             "last_commit": "2019-08-16T06:28:03Z",
+            "open_issues": 0,
             "owner": "Shoombuatong",
             "repo": "TargetAntiAngio",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for TPpred-ATMV.",
+            "homepage": null,
             "id": 470558175,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-03-16T12:08:56Z",
+            "open_issues": 1,
             "owner": "cokeyk",
             "repo": "TPpred-ATMV",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -80,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 274620988,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-18T17:16:54Z",
+            "open_issues": 2,
             "owner": "BioSequenceAnalysis",
             "repo": "Bert-Protein",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -96,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iAMP-CA2L",
+            "homepage": null,
             "id": 307349470,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-05-06T14:55:02Z",
+            "open_issues": 0,
             "owner": "liujin66",
             "repo": "iAMP-CA2L",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -112,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 369932379,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-02T05:38:03Z",
+            "open_issues": 0,
             "owner": "alivelxj",
             "repo": "Pep-CNN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -128,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes of A novel therapeutic peptide prediction method using physicochemical property encoding and feature representation learning",
+            "homepage": null,
             "id": 222323415,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-07-01T10:08:22Z",
+            "open_issues": 0,
             "owner": "YPZ858",
             "repo": "PPTPP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -144,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for TPpred-ATMV.",
+            "homepage": null,
             "id": 470558175,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-03-16T12:08:56Z",
+            "open_issues": 1,
             "owner": "cokeyk",
             "repo": "TPpred-ATMV",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -166,12 +211,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deep learning model to predict anticancer peptides.",
+            "homepage": null,
             "id": 146570266,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-07-10T07:04:19Z",
+            "open_issues": 0,
             "owner": "haichengyi",
             "repo": "ACP-DL",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "anticancer-peptides",
+              "bioinformatics",
+              "deep-learning",
+              "lstm"
+            ]
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -182,12 +237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a deep learning tool for the classification of biological sequences",
+            "homepage": null,
             "id": 227739030,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-13T09:13:34Z",
+            "open_issues": 1,
             "owner": "jingry",
             "repo": "autoBioSeqpy",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -198,12 +258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 328618056,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-07-12T10:50:42Z",
+            "open_issues": 2,
             "owner": "chen709847237",
             "repo": "xDeep-AcPEP",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -214,12 +279,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anticancer Peptide Identification employing Multi-headed Deep-CNN",
+            "homepage": "http://rafsanjani.pythonanywhere.com/",
             "id": 247323728,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-18T10:35:11Z",
+            "open_issues": 0,
             "owner": "RafsanjaniHub",
             "repo": "Anticancer-Peptides-CNN",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "anticancer-peptides",
+              "bioinformatics",
+              "cancer-research",
+              "computational-biology",
+              "convolutional-neural-networks",
+              "deep-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -230,12 +307,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AntiCP2 is an updated version of AntiCP developed for predicting, designing and scanning anticancer peptides.",
+            "homepage": "http://webs.iiitd.edu.in/raghava/anticp2/",
             "id": 246625193,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-08T09:20:21Z",
+            "open_issues": 0,
             "owner": "raghavagps",
             "repo": "anticp2",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "anticancer",
+              "machine-learning-algorithms",
+              "models",
+              "peptides"
+            ]
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -246,12 +333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anti-Cancer Peptide Prediction with Deep Representation Learning Features",
+            "homepage": null,
             "id": 315004666,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-01-27T04:25:37Z",
+            "open_issues": 1,
             "owner": "zhibinlv",
             "repo": "iACP-DRLF",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -262,12 +354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identifying bioactive peptide function using multi-label deep learning",
+            "homepage": null,
             "id": 428896875,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-09T07:52:36Z",
+            "open_issues": 0,
             "owner": "xialab-ahu",
             "repo": "MLBP",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -278,12 +375,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All codes and datasets used in the construction of our proposed moidels",
+            "homepage": null,
             "id": 238109657,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-16T05:39:56Z",
+            "open_issues": 0,
             "owner": "Shoombuatong",
             "repo": "Dataset-Code",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -294,12 +396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iAMP-CA2L",
+            "homepage": null,
             "id": 307349470,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-05-06T14:55:02Z",
+            "open_issues": 0,
             "owner": "liujin66",
             "repo": "iAMP-CA2L",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -310,12 +417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 466702578,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-09T16:45:51Z",
+            "open_issues": 0,
             "owner": "hyao1",
             "repo": "ME-ACP",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -326,12 +438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 369932379,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-02T05:38:03Z",
+            "open_issues": 0,
             "owner": "alivelxj",
             "repo": "Pep-CNN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -342,12 +459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MFBPP: A CNN and Bi-LSTM-based Method for Multi-functional Bioactive Peptide Prediction",
+            "homepage": null,
             "id": 480003391,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-12T08:21:07Z",
+            "open_issues": 0,
             "owner": "Good-Ly",
             "repo": "MPMABP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -358,12 +480,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes of A novel therapeutic peptide prediction method using physicochemical property encoding and feature representation learning",
+            "homepage": null,
             "id": 222323415,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-07-01T10:08:22Z",
+            "open_issues": 0,
             "owner": "YPZ858",
             "repo": "PPTPP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -374,12 +501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 444667938,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-05T04:55:30Z",
+            "open_issues": 0,
             "owner": "abcair",
             "repo": "ACPNet",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -390,12 +522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 367229613,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-22T11:25:31Z",
+            "open_issues": 0,
             "owner": "wame-ng",
             "repo": "DLFF-ACP",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -406,12 +543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for TPpred-ATMV.",
+            "homepage": null,
             "id": 470558175,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-03-16T12:08:56Z",
+            "open_issues": 1,
             "owner": "cokeyk",
             "repo": "TPpred-ATMV",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -422,12 +564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "prediction of anticancer peptides",
+            "homepage": null,
             "id": 346259687,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-17T01:31:12Z",
+            "open_issues": 0,
             "owner": "chenxgscuec",
             "repo": "ACPDA",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -438,12 +585,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 280081451,
             "language": "HTML",
+            "license": null,
             "last_commit": "2020-11-05T19:06:50Z",
+            "open_issues": 0,
             "owner": "BioGenies",
             "repo": "CancerGram-analysis",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -454,12 +606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 424182769,
             "language": null,
+            "license": null,
             "last_commit": "2021-11-03T10:52:24Z",
+            "open_issues": 1,
             "owner": "Muhammad-Arif-NUST",
             "repo": "StackACPred-",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -476,12 +633,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iAMP-CA2L",
+            "homepage": null,
             "id": 307349470,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-05-06T14:55:02Z",
+            "open_issues": 0,
             "owner": "liujin66",
             "repo": "iAMP-CA2L",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -498,12 +660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identifying bioactive peptide function using multi-label deep learning",
+            "homepage": null,
             "id": 428896875,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-09T07:52:36Z",
+            "open_issues": 0,
             "owner": "xialab-ahu",
             "repo": "MLBP",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -514,12 +681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MFBPP: A CNN and Bi-LSTM-based Method for Multi-functional Bioactive Peptide Prediction",
+            "homepage": null,
             "id": 480003391,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-12T08:21:07Z",
+            "open_issues": 0,
             "owner": "Good-Ly",
             "repo": "MPMABP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -530,12 +702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PAAP: A Web Server for Predicting Antihypertensive Activity of Peptides",
+            "homepage": "http://codes.bio/paap/",
             "id": 112215558,
             "language": "R",
+            "license": null,
             "last_commit": "2019-04-18T03:58:05Z",
+            "open_issues": 0,
             "owner": "chaninlab",
             "repo": "PAAP",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -552,12 +729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identifying bioactive peptide function using multi-label deep learning",
+            "homepage": null,
             "id": 428896875,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-09T07:52:36Z",
+            "open_issues": 0,
             "owner": "xialab-ahu",
             "repo": "MLBP",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -568,12 +750,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 369932379,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-02T05:38:03Z",
+            "open_issues": 0,
             "owner": "alivelxj",
             "repo": "Pep-CNN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -584,12 +771,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MFBPP: A CNN and Bi-LSTM-based Method for Multi-functional Bioactive Peptide Prediction",
+            "homepage": null,
             "id": 480003391,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-12T08:21:07Z",
+            "open_issues": 0,
             "owner": "Good-Ly",
             "repo": "MPMABP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -600,12 +792,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes of A novel therapeutic peptide prediction method using physicochemical property encoding and feature representation learning",
+            "homepage": null,
             "id": 222323415,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-07-01T10:08:22Z",
+            "open_issues": 0,
             "owner": "YPZ858",
             "repo": "PPTPP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -616,12 +813,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for TPpred-ATMV.",
+            "homepage": null,
             "id": 470558175,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-03-16T12:08:56Z",
+            "open_issues": 1,
             "owner": "cokeyk",
             "repo": "TPpred-ATMV",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -632,12 +834,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 189338292,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-23T07:34:43Z",
+            "open_issues": 0,
             "owner": "guofei-tju",
             "repo": "Ensemble-classifier-chain-model",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -654,12 +861,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Predict AMPs in (meta)genomes and peptides",
+            "homepage": "http://big-data-biology.org/software/macrel",
             "id": 194587249,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-19T02:01:16Z",
+            "open_issues": 0,
             "owner": "BigDataBiology",
             "repo": "macrel",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "bioinformatics",
+              "biology",
+              "genomics",
+              "metagenomics",
+              "ngless",
+              "peptide"
+            ]
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -670,12 +889,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 163948590,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-10-06T11:24:09Z",
+            "open_issues": 12,
             "owner": "mayuefine",
             "repo": "c_AMPs-prediction",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -686,12 +910,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Attentive deep learning model for antimicrobial peptide prediction",
+            "homepage": null,
             "id": 117296069,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-02T19:02:45Z",
+            "open_issues": 3,
             "owner": "BirolLab",
             "repo": "AMPlify",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -702,12 +931,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 271307749,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-21T01:49:51Z",
+            "open_issues": 4,
             "owner": "tlawrence3",
             "repo": "amPEPpy",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -718,12 +952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 274620988,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-18T17:16:54Z",
+            "open_issues": 2,
             "owner": "BioSequenceAnalysis",
             "repo": "Bert-Protein",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -734,12 +973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identifying bioactive peptide function using multi-label deep learning",
+            "homepage": null,
             "id": 428896875,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-09T07:52:36Z",
+            "open_issues": 0,
             "owner": "xialab-ahu",
             "repo": "MLBP",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -750,12 +994,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source software and datasets for the ACEP algorithm",
+            "homepage": null,
             "id": 230277719,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-08-31T04:23:33Z",
+            "open_issues": 0,
             "owner": "Fuhaoyi",
             "repo": "ACEP",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -766,12 +1015,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 286404975,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-11-22T09:29:00Z",
+            "open_issues": 0,
             "owner": "LinTzuTang",
             "repo": "AI4AMP_predictor",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "antimicrobial-peptides",
+              "deep-learning"
+            ]
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -782,12 +1039,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Antimicrobial Peptide Identification Using Multi-scale Convolutional Network",
+            "homepage": null,
             "id": 207288768,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-12-05T06:00:48Z",
+            "open_issues": 0,
             "owner": "zhanglabNKU",
             "repo": "APIN",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -798,12 +1060,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iAMP-CA2L",
+            "homepage": null,
             "id": 307349470,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-05-06T14:55:02Z",
+            "open_issues": 0,
             "owner": "liujin66",
             "repo": "iAMP-CA2L",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -814,12 +1081,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A model for predicting short antimicrobial peptides (length <=30 residues) using multiple features and deep learning approaches",
+            "homepage": "https://doi.org/10.1093/bib/bbab487",
             "id": 395613823,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-17T15:03:16Z",
+            "open_issues": 3,
             "owner": "WaqarHusain",
             "repo": "sAMP-PFPDeep",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "antimicrobial-peptides",
+              "bioinformatics",
+              "deep-learning",
+              "protien-classification",
+              "resnet-50",
+              "sequence-classification",
+              "vgg16"
+            ]
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -830,12 +1110,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Files associated with the ampir paper",
+            "homepage": null,
             "id": 246981120,
             "language": "PostScript",
+            "license": null,
             "last_commit": "2023-11-03T04:24:09Z",
+            "open_issues": 0,
             "owner": "Legana",
             "repo": "AMP_pub",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -846,12 +1131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MFBPP: A CNN and Bi-LSTM-based Method for Multi-functional Bioactive Peptide Prediction",
+            "homepage": null,
             "id": 480003391,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-12T08:21:07Z",
+            "open_issues": 0,
             "owner": "Good-Ly",
             "repo": "MPMABP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -862,12 +1152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sequence-based Identification of Antimicrobial Peptides using Distribution Patterns of Amino Acid Properties ",
+            "homepage": null,
             "id": 112546549,
             "language": null,
+            "license": null,
             "last_commit": "2017-11-30T01:14:15Z",
+            "open_issues": 1,
             "owner": "ShirleyWISiu",
             "repo": "AmPEP",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -878,12 +1173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 374969569,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-25T11:17:33Z",
+            "open_issues": 0,
             "owner": "onkarS23",
             "repo": "CoAMPpred",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -894,12 +1194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 227064156,
             "language": "HTML",
+            "license": null,
             "last_commit": "2020-05-11T17:18:34Z",
+            "open_issues": 0,
             "owner": "michbur",
             "repo": "AmpGram-analysis",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -910,12 +1215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 366022966,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-06-27T10:24:26Z",
+            "open_issues": 0,
             "owner": "gmit-amp-res",
             "repo": "amp",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -932,12 +1242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "i2APP: a two-step machine learning framework for antiparasitic peptides identification",
+            "homepage": null,
             "id": 461482569,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-29T09:47:58Z",
+            "open_issues": 0,
             "owner": "greyspring",
             "repo": "i2APP",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -948,12 +1263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://predapp.xialab.info",
             "id": 350340037,
             "language": "HTML",
+            "license": null,
             "last_commit": "2021-03-23T02:44:13Z",
+            "open_issues": 0,
             "owner": "xialab-ahu",
             "repo": "PredAPP",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -970,12 +1290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A prediction scheme for identification and functional characterization of antiviral peptides",
+            "homepage": null,
             "id": 372813788,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-10-27T08:37:09Z",
+            "open_issues": 0,
             "owner": "BiOmicsLab",
             "repo": "AVPIden",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -986,12 +1311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "computational identification of anti-coronavirus peptides",
+            "homepage": null,
             "id": 477515504,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-14T07:59:34Z",
+            "open_issues": 0,
             "owner": "kuratahiroyuki",
             "repo": "iACVP",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1002,12 +1332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 369932379,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-02T05:38:03Z",
+            "open_issues": 0,
             "owner": "alivelxj",
             "repo": "Pep-CNN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1018,12 +1353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes of A novel therapeutic peptide prediction method using physicochemical property encoding and feature representation learning",
+            "homepage": null,
             "id": 222323415,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-07-01T10:08:22Z",
+            "open_issues": 0,
             "owner": "YPZ858",
             "repo": "PPTPP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1034,12 +1374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 260495418,
             "language": "R",
+            "license": null,
             "last_commit": "2024-10-14T22:01:36Z",
+            "open_issues": 0,
             "owner": "pmartR",
             "repo": "FIRM-AVP",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1050,12 +1395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identifying anti-coronavirus peptides by incorporating different negative datasets and imbalanced learning strategies",
+            "homepage": null,
             "id": 295954587,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-06-01T12:37:39Z",
+            "open_issues": 0,
             "owner": "poncey",
             "repo": "PreAntiCoV",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1066,12 +1416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for TPpred-ATMV.",
+            "homepage": null,
             "id": 470558175,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-03-16T12:08:56Z",
+            "open_issues": 1,
             "owner": "cokeyk",
             "repo": "TPpred-ATMV",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1082,12 +1437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 151125506,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-15T17:00:54Z",
+            "open_issues": 1,
             "owner": "bio-coding",
             "repo": "AntiVPP",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -1104,12 +1464,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A state-of-the-art graph neural network for the prediction of cell-penetrating peptides.",
+            "homepage": null,
             "id": 660659691,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-03-25T15:40:40Z",
+            "open_issues": 0,
             "owner": "attilaimre99",
             "repo": "GraphCPP",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1120,12 +1485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 369932379,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-02T05:38:03Z",
+            "open_issues": 0,
             "owner": "alivelxj",
             "repo": "Pep-CNN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1136,12 +1506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes of A novel therapeutic peptide prediction method using physicochemical property encoding and feature representation learning",
+            "homepage": null,
             "id": 222323415,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-07-01T10:08:22Z",
+            "open_issues": 0,
             "owner": "YPZ858",
             "repo": "PPTPP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1152,12 +1527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for TPpred-ATMV.",
+            "homepage": null,
             "id": 470558175,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-03-16T12:08:56Z",
+            "open_issues": 1,
             "owner": "cokeyk",
             "repo": "TPpred-ATMV",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -1174,12 +1554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PredNeuroP",
+            "homepage": null,
             "id": 249428185,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-03-23T14:51:35Z",
+            "open_issues": 0,
             "owner": "xialab-ahu",
             "repo": "PredNeuroP",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1190,12 +1575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeuroPpred-Fuse: an interpretable stacking model for prediction of neuropeptides by fusing sequence information and feature selection methods",
+            "homepage": null,
             "id": 359645804,
             "language": null,
+            "license": null,
             "last_commit": "2021-04-20T01:56:00Z",
+            "open_issues": 1,
             "owner": "mingmingjiang1",
             "repo": "NeuroPpred-Fuse",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -1212,12 +1602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 369932379,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-02T05:38:03Z",
+            "open_issues": 0,
             "owner": "alivelxj",
             "repo": "Pep-CNN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1228,12 +1623,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes of A novel therapeutic peptide prediction method using physicochemical property encoding and feature representation learning",
+            "homepage": null,
             "id": 222323415,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-07-01T10:08:22Z",
+            "open_issues": 0,
             "owner": "YPZ858",
             "repo": "PPTPP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1244,12 +1644,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for TPpred-ATMV.",
+            "homepage": null,
             "id": 470558175,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-03-16T12:08:56Z",
+            "open_issues": 1,
             "owner": "cokeyk",
             "repo": "TPpred-ATMV",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1260,12 +1665,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 452208618,
             "language": "Jupyter Notebook",
+            "license": "MPL-2.0",
             "last_commit": "2023-08-05T12:24:02Z",
+            "open_issues": 2,
             "owner": "proteinexplorers",
             "repo": "EnsembleQS",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -1282,12 +1692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 369932379,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-02T05:38:03Z",
+            "open_issues": 0,
             "owner": "alivelxj",
             "repo": "Pep-CNN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1298,12 +1713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes of A novel therapeutic peptide prediction method using physicochemical property encoding and feature representation learning",
+            "homepage": null,
             "id": 222323415,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-07-01T10:08:22Z",
+            "open_issues": 0,
             "owner": "YPZ858",
             "repo": "PPTPP",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         },
@@ -1314,12 +1734,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for TPpred-ATMV.",
+            "homepage": null,
             "id": 470558175,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-03-16T12:08:56Z",
+            "open_issues": 1,
             "owner": "cokeyk",
             "repo": "TPpred-ATMV",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
         }
@@ -1328,15 +1753,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:41:37.311Z",
+    "last_updated": "2026-08-29T05:03:47.861Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collects software dedicated to predicting specific properties of peptides",
+      "homepage": "https://biogenies.info/peptide-prediction-list/",
       "id": 332714570,
       "language": "Shell",
+      "license": null,
       "last_commit": "2024-12-17T10:39:01Z",
+      "open_issues": 1,
       "owner": "BioGenies",
       "repo": "peptide-prediction-list",
-      "stars": 69
+      "stars": 69,
+      "topics": [
+        "anticancer-peptides",
+        "antimicrobial-peptides",
+        "awesome-list",
+        "bioinformatics",
+        "blood-brain-barrier",
+        "cell-penetrating-peptides",
+        "deep-learning",
+        "machine-learning",
+        "neuropeptides",
+        "peptide-identification",
+        "peptide-prediction",
+        "peptides",
+        "prediction-model"
+      ]
     },
     "original_repository_sha": "3b2b9817ac995ef537f4a437cd04f66ded90cbd3",
     "enhanced_repository": "enhansome/enhansome-peptide-prediction-list",
