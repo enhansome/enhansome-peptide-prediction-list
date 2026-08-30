@@ -362,8 +362,8 @@ interactive and browse-able list, please visit:
 ## Antimicrobial peptides (AMP)
 
 1. Macrel (2020): [publication](https://doi.org/10.7717/peerj.10555);
-   [training repository](https://github.com/BigDataBiology/macrel) ⭐ 96 | 🐛 0 | 🌐 Python | 📅 2026-07-19;
-   [model repository](https://github.com/BigDataBiology/macrel) ⭐ 96 | 🐛 0 | 🌐 Python | 📅 2026-07-19; [web
+   [training repository](https://github.com/BigDataBiology/macrel) ⭐ 97 | 🐛 0 | 🌐 Python | 📅 2026-07-19;
+   [model repository](https://github.com/BigDataBiology/macrel) ⭐ 97 | 🐛 0 | 🌐 Python | 📅 2026-07-19; [web
    server](https://big-data-biology.org/software/macrel).
 2. Ma et al. (2022):
    [publication](https://doi.org/10.1038/s41587-022-01226-0); [model
@@ -744,4 +744,4 @@ and Structural Biotechnology Journal,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
