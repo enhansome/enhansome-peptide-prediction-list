@@ -1753,7 +1753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:26:04.551Z",
+    "last_updated": "2026-08-31T21:37:17.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collects software dedicated to predicting specific properties of peptides",
@@ -1765,7 +1765,7 @@
       "open_issues": 1,
       "owner": "BioGenies",
       "repo": "peptide-prediction-list",
-      "stars": 69,
+      "stars": 70,
       "topics": [
         "anticancer-peptides",
         "antimicrobial-peptides",
