@@ -940,7 +940,7 @@
             "open_issues": 4,
             "owner": "tlawrence3",
             "repo": "amPEPpy",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
@@ -1753,7 +1753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:37:37.981Z",
+    "last_updated": "2026-09-07T20:08:45.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collects software dedicated to predicting specific properties of peptides",

@@ -374,8 +374,8 @@ interactive and browse-able list, please visit:
    repository](https://github.com/bcgsc/AMPlify) ⭐ 65 | 🐛 3 | 🌐 Python | 📅 2026-06-02.
 4. amPEPpy 1.0 (2020):
    [publication](https://doi.org/10.1093/bioinformatics/btaa917);
-   [training repository](https://github.com/tlawrence3/amPEPpy) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2024-01-21; [model
-   repository](https://github.com/tlawrence3/amPEPpy) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2024-01-21.
+   [training repository](https://github.com/tlawrence3/amPEPpy) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2024-01-21; [model
+   repository](https://github.com/tlawrence3/amPEPpy) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2024-01-21.
 5. Zhang et al. (2021):
    [publication](https://doi.org/10.1093/bib/bbab200); [training
    repository](https://github.com/BioSequenceAnalysis/Bert-Protein) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2023-03-18;
@@ -744,4 +744,4 @@ and Structural Biotechnology Journal,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
