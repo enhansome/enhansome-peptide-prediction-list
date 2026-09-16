@@ -144,8 +144,8 @@ interactive and browse-able list, please visit:
    [publication](https://doi.org/10.1093/bib/bbab008); [model
    repository](https://github.com/zhibinlv/iACP-DRLF) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2021-01-27.
 7. MLBP (2021): [publication](https://doi.org/10.1093/bib/bbab414);
-   [training repository](https://github.com/xialab-ahu/MLBP) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [model
-   repository](https://github.com/xialab-ahu/MLBP) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [web
+   [training repository](https://github.com/xialab-ahu/MLBP) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [model
+   repository](https://github.com/xialab-ahu/MLBP) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [web
    server](http://bioinfo.ahu.edu.cn/MLBP/).
 8. iACP-FSCM (2021):
    [publication](https://doi.org/10.1038/s41598-021-82513-9); [training
@@ -291,8 +291,8 @@ interactive and browse-able list, please visit:
 ## Antihypertensive peptides
 
 1. MLBP (2021): [publication](https://doi.org/10.1093/bib/bbab414);
-   [training repository](https://github.com/xialab-ahu/MLBP) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [model
-   repository](https://github.com/xialab-ahu/MLBP) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [web
+   [training repository](https://github.com/xialab-ahu/MLBP) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [model
+   repository](https://github.com/xialab-ahu/MLBP) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [web
    server](http://bioinfo.ahu.edu.cn/MLBP/).
 2. MPMABP (2022): [publication](https://doi.org/10.3390/ph15060707);
    [training
@@ -316,8 +316,8 @@ interactive and browse-able list, please visit:
 ## Antiinflammatory peptides (AIP)
 
 1. MLBP (2021): [publication](https://doi.org/10.1093/bib/bbab414);
-   [training repository](https://github.com/xialab-ahu/MLBP) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [model
-   repository](https://github.com/xialab-ahu/MLBP) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [web
+   [training repository](https://github.com/xialab-ahu/MLBP) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [model
+   repository](https://github.com/xialab-ahu/MLBP) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [web
    server](http://bioinfo.ahu.edu.cn/MLBP/).
 2. Pep-CNN (2022):
    [publication](https://doi.org/10.1016/j.chemolab.2022.104490);
@@ -382,8 +382,8 @@ interactive and browse-able list, please visit:
    [model
    repository](https://github.com/BioSequenceAnalysis/Bert-Protein) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2023-03-18.
 6. MLBP (2021): [publication](https://doi.org/10.1093/bib/bbab414);
-   [training repository](https://github.com/xialab-ahu/MLBP) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [model
-   repository](https://github.com/xialab-ahu/MLBP) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [web
+   [training repository](https://github.com/xialab-ahu/MLBP) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [model
+   repository](https://github.com/xialab-ahu/MLBP) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-07-09; [web
    server](http://bioinfo.ahu.edu.cn/MLBP/).
 7. ACEP (2020):
    [publication](https://doi.org/10.1186/s12864-020-06978-0); [training
@@ -744,4 +744,4 @@ and Structural Biotechnology Journal,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

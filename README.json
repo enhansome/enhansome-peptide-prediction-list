@@ -363,7 +363,7 @@
             "open_issues": 0,
             "owner": "xialab-ahu",
             "repo": "MLBP",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
@@ -669,7 +669,7 @@
             "open_issues": 0,
             "owner": "xialab-ahu",
             "repo": "MLBP",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
@@ -738,7 +738,7 @@
             "open_issues": 0,
             "owner": "xialab-ahu",
             "repo": "MLBP",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
@@ -982,7 +982,7 @@
             "open_issues": 0,
             "owner": "xialab-ahu",
             "repo": "MLBP",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
@@ -1753,7 +1753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:48:57.061Z",
+    "last_updated": "2026-09-16T19:41:04.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collects software dedicated to predicting specific properties of peptides",
