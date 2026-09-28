@@ -919,7 +919,7 @@
             "open_issues": 3,
             "owner": "BirolLab",
             "repo": "AMPlify",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
@@ -1753,7 +1753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:51:58.578Z",
+    "last_updated": "2026-09-28T22:16:11.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collects software dedicated to predicting specific properties of peptides",
