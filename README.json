@@ -870,7 +870,7 @@
             "open_issues": 0,
             "owner": "BigDataBiology",
             "repo": "macrel",
-            "stars": 98,
+            "stars": 97,
             "topics": [
               "bioinformatics",
               "biology",
@@ -1753,7 +1753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:01:33.540Z",
+    "last_updated": "2026-09-30T20:59:23.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collects software dedicated to predicting specific properties of peptides",
