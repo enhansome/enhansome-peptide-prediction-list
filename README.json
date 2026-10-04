@@ -919,7 +919,7 @@
             "open_issues": 4,
             "owner": "BirolLab",
             "repo": "AMPlify",
-            "stars": 66,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
@@ -1048,7 +1048,7 @@
             "open_issues": 0,
             "owner": "zhanglabNKU",
             "repo": "APIN",
-            "stars": 8,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
@@ -1090,7 +1090,7 @@
             "open_issues": 3,
             "owner": "WaqarHusain",
             "repo": "sAMP-PFPDeep",
-            "stars": 6,
+            "stars": 5,
             "topics": [
               "antimicrobial-peptides",
               "bioinformatics",
@@ -1147,27 +1147,6 @@
         },
         {
           "node_type": "item",
-          "title": "AmPEP (2018): publication",
-          "description": "; model repository; web server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Sequence-based Identification of Antimicrobial Peptides using Distribution Patterns of Amino Acid Properties ",
-            "homepage": null,
-            "id": 112546549,
-            "language": null,
-            "license": null,
-            "last_commit": "2017-11-30T01:14:15Z",
-            "open_issues": 1,
-            "owner": "ShirleyWISiu",
-            "repo": "AmPEP",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:41:37.311Z"
-        },
-        {
-          "node_type": "item",
           "title": "Co-AMPpred (2021): publication",
           "description": "; training repository; model repository.",
           "children": [],
@@ -1183,6 +1162,27 @@
             "owner": "onkarS23",
             "repo": "CoAMPpred",
             "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:41:37.311Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AmPEP (2018): publication",
+          "description": "; model repository; web server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Sequence-based Identification of Antimicrobial Peptides using Distribution Patterns of Amino Acid Properties ",
+            "homepage": null,
+            "id": 112546549,
+            "language": null,
+            "license": null,
+            "last_commit": "2017-11-30T01:14:15Z",
+            "open_issues": 1,
+            "owner": "ShirleyWISiu",
+            "repo": "AmPEP",
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
@@ -1753,7 +1753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:23:50.281Z",
+    "last_updated": "2026-10-04T19:48:52.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collects software dedicated to predicting specific properties of peptides",

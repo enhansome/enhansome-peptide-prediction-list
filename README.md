@@ -370,8 +370,8 @@ interactive and browse-able list, please visit:
    repository](https://github.com/mayuefine/c_AMPs-prediction) ⭐ 89 | 🐛 12 | 🌐 Python | 📅 2022-10-06.
 3. AMPlify (2022):
    [publication](https://doi.org/10.1186/s12864-022-08310-4); [training
-   repository](https://github.com/bcgsc/AMPlify) ⭐ 66 | 🐛 4 | 🌐 Python | 📅 2026-09-28; [model
-   repository](https://github.com/bcgsc/AMPlify) ⭐ 66 | 🐛 4 | 🌐 Python | 📅 2026-09-28.
+   repository](https://github.com/bcgsc/AMPlify) ⭐ 64 | 🐛 4 | 🌐 Python | 📅 2026-09-28; [model
+   repository](https://github.com/bcgsc/AMPlify) ⭐ 64 | 🐛 4 | 🌐 Python | 📅 2026-09-28.
 4. amPEPpy 1.0 (2020):
    [publication](https://doi.org/10.1093/bioinformatics/btaa917);
    [training repository](https://github.com/tlawrence3/amPEPpy) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2024-01-21; [model
@@ -396,8 +396,8 @@ interactive and browse-able list, please visit:
    [web server](http://symbiosis.iis.sinica.edu.tw/PC_6/).
 9. APIN (2019):
    [publication](https://doi.org/10.1186/s12859-019-3327-y); [training
-   repository](https://github.com/zhanglabNKU/APIN) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2019-12-05; [model
-   repository](https://github.com/zhanglabNKU/APIN) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2019-12-05.
+   repository](https://github.com/zhanglabNKU/APIN) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2019-12-05; [model
+   repository](https://github.com/zhanglabNKU/APIN) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2019-12-05.
 10. iAMP-CA2L (2021):
     [publication](https://doi.org/10.1093/bib/bbab209); [training
     repository](https://github.com/liujin66/iAMP-CA2L) ⭐ 7 | 🐛 0 | 🌐 HTML | 📅 2021-05-06; [model
@@ -405,7 +405,7 @@ interactive and browse-able list, please visit:
     server](http://www.jci-bioinfo.cn/iAMP-CA2L).
 11. sAMP-PFPDeep (2021):
     [publication](https://doi.org/10.1093/bib/bbab487); [model
-    repository](https://github.com/WaqarHusain/sAMP-PFPDeep) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2024-06-17.
+    repository](https://github.com/WaqarHusain/sAMP-PFPDeep) ⭐ 5 | 🐛 3 | 🌐 Python | 📅 2024-06-17.
 12. Ampir (2020):
     [publication](https://doi.org/10.1093/bioinformatics/btaa653);
     [training repository](https://github.com/Legana/AMP_pub) ⭐ 4 | 🐛 0 | 🌐 PostScript | 📅 2023-11-03; [model
@@ -415,14 +415,14 @@ interactive and browse-able list, please visit:
     [training
     repository](https://drive.google.com/drive/folders/10oPJ_koydNV4Cw_BjpwLtiLq7CpaNlGN);
     [model repository](https://github.com/Good-Ly/MPMABP) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2022-06-12.
-14. AmPEP (2018):
-    [publication](https://doi.org/10.1038/s41598-018-19752-w); [model
-    repository](https://github.com/siuwengin/AmPEP) ⭐ 3 | 🐛 1 | 📅 2017-11-30; [web
-    server](https://app.cbbio.online/ampep/home).
-15. Co-AMPpred (2021):
+14. Co-AMPpred (2021):
     [publication](https://doi.org/10.1186/s12859-021-04305-2); [training
     repository](https://github.com/onkarS23/CoAMPpred) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-06-25; [model
     repository](https://github.com/onkarS23/CoAMPpred) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-06-25.
+15. AmPEP (2018):
+    [publication](https://doi.org/10.1038/s41598-018-19752-w); [model
+    repository](https://github.com/siuwengin/AmPEP) ⭐ 2 | 🐛 1 | 📅 2017-11-30; [web
+    server](https://app.cbbio.online/ampep/home).
 16. AmpGram (2020): [publication](https://doi.org/10.3390/ijms21124310);
     [training repository](https://github.com/michbur/AmpGram-analysis) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2020-05-11;
     [model repository](https://github.com/michbur/AmpGram) ⭐ 4 | 🐛 0 | 🌐 R | 📅 2022-02-28; [web
@@ -744,4 +744,4 @@ and Structural Biotechnology Journal,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
