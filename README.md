@@ -132,9 +132,9 @@ interactive and browse-able list, please visit:
    [web server](https://app.cbbio.online/acpep/home).
 4. ACP-MHCNN (2021):
    [publication](https://doi.org/10.1038/s41598-021-02703-3); [training
-   repository](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN) ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-11-18;
+   repository](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN) ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-11-18;
    [model
-   repository](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN) ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-11-18;
+   repository](https://github.com/mrzResearchArena/Anticancer-Peptides-CNN) ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-11-18;
    [web server](https://anticancer.pythonanywhere.com/).
 5. AntiCP 2.0 (2020):
    [publication](https://doi.org/10.1093/bib/bbaa153); [model
@@ -744,4 +744,4 @@ and Structural Biotechnology Journal,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

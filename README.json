@@ -288,7 +288,7 @@
             "open_issues": 0,
             "owner": "RafsanjaniHub",
             "repo": "Anticancer-Peptides-CNN",
-            "stars": 13,
+            "stars": 12,
             "topics": [
               "anticancer-peptides",
               "bioinformatics",
@@ -1753,7 +1753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:17:32.353Z",
+    "last_updated": "2026-11-01T20:49:14.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collects software dedicated to predicting specific properties of peptides",
