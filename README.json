@@ -867,7 +867,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-07-19T02:01:16Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "BigDataBiology",
             "repo": "macrel",
             "stars": 98,
@@ -1753,7 +1753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:29:03.404Z",
+    "last_updated": "2026-11-08T20:45:04.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collects software dedicated to predicting specific properties of peptides",
