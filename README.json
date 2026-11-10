@@ -246,7 +246,7 @@
             "open_issues": 1,
             "owner": "jingry",
             "repo": "autoBioSeqpy",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:37.311Z"
@@ -866,8 +866,8 @@
             "id": 194587249,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-19T02:01:16Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-09T07:27:34Z",
+            "open_issues": 0,
             "owner": "BigDataBiology",
             "repo": "macrel",
             "stars": 98,
@@ -1753,7 +1753,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T20:45:04.230Z",
+    "last_updated": "2026-11-10T00:25:06.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collects software dedicated to predicting specific properties of peptides",

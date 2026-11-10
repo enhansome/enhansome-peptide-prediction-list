@@ -122,9 +122,9 @@ interactive and browse-able list, please visit:
    repository](https://github.com/haichengyi/ACP-DL) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2019-07-10.
 2. DeepACP (2020):
    [publication](https://doi.org/10.1016/j.omtn.2020.10.005); [training
-   repository](https://github.com/jingry/autoBioSeqpy/tree/master/examples/anticancer_peptide_prediction) ⭐ 18 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-13;
+   repository](https://github.com/jingry/autoBioSeqpy/tree/master/examples/anticancer_peptide_prediction) ⭐ 19 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-13;
    [model
-   repository](https://github.com/jingry/autoBioSeqpy/tree/master/examples/anticancer_peptide_prediction) ⭐ 18 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-13.
+   repository](https://github.com/jingry/autoBioSeqpy/tree/master/examples/anticancer_peptide_prediction) ⭐ 19 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-13.
 3. xDeep-AcPEP (2021):
    [publication](https://doi.org/10.1021/acs.jcim.1c00181); [training
    repository](https://drive.google.com/drive/folders/1DXHppIKO0vNqvpGrFAQyqnBodi3dr3fX);
@@ -362,8 +362,8 @@ interactive and browse-able list, please visit:
 ## Antimicrobial peptides (AMP)
 
 1. Macrel (2020): [publication](https://doi.org/10.7717/peerj.10555);
-   [training repository](https://github.com/BigDataBiology/macrel) ⭐ 98 | 🐛 1 | 🌐 Python | 📅 2026-07-19;
-   [model repository](https://github.com/BigDataBiology/macrel) ⭐ 98 | 🐛 1 | 🌐 Python | 📅 2026-07-19; [web
+   [training repository](https://github.com/BigDataBiology/macrel) ⭐ 98 | 🐛 0 | 🌐 Python | 📅 2026-11-09;
+   [model repository](https://github.com/BigDataBiology/macrel) ⭐ 98 | 🐛 0 | 🌐 Python | 📅 2026-11-09; [web
    server](https://big-data-biology.org/software/macrel).
 2. Ma et al. (2022):
    [publication](https://doi.org/10.1038/s41587-022-01226-0); [model
@@ -744,4 +744,4 @@ and Structural Biotechnology Journal,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
